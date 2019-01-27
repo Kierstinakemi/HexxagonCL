@@ -1,0 +1,10 @@
+HexxagonCL Planning doc
+
+Graph abilities:
+
+A game piece can jump only one node
+A node can be empty, or contain Kierstin's piece or Kevin's piece.
+A game piece can only duplicate to nodes sharing edges
+Each node borders 6 other nodes except for border nodes and the 3 absent center nodes.
+The graph is 61 nodes including 3 unusable nodes in the center.
+
